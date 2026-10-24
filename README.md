@@ -1,4 +1,4 @@
-# Blackjack Strategy Simulator
+# BlackjackStrategySimulator
 
 ## Introduction
 This project uses Monte Carlo simulation to investigate the relationship between different standing strategies and the outcome of Blackjack games. While simulating a large number of games, the simulator adjusts the value at which the player stands.

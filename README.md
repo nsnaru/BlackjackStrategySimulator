@@ -27,5 +27,5 @@ As the plot above shows, standing on 18, 19 or 20 greatly increases the rate of 
 - Make profit the primary figure of success, rather than the number of wins.
 - For more complex strategies, both the player's cards and dealer's upcard should be taken into account.
 - The deck size should be adjustable.
-- Break up 'simulation.py' into multiple smaller files, especially as the project expands.
+- Break up `simulation.py` into multiple smaller files, especially as the project expands.
 - Further statistical analysis to better understand the relevance of the results.

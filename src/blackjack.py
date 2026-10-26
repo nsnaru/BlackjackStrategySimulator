@@ -44,6 +44,7 @@ def bust(hand):
     return sum_hand(hand) >= BUST
 
 # Determine if a hand is a soft hand (contains an ace).
+# Needs fixing prior to implementation.
 def soft_hand(hand):
     return 'A' in hand and not bust(hand)
 

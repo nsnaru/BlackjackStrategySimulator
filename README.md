@@ -5,7 +5,7 @@ This project uses Monte Carlo simulation to investigate the relationship between
 
 The results are organised and manipulated with Pandas, and plotted with Matplotlib.
 
-The source file 'blackjack.py' contains the game logic, whereas 'simulation.py' runs the rounds, organises the results and draws the plots. 
+The source file `blackjack.py` contains the game logic, whereas `simulation.py` runs the rounds, organises the results and draws the plots. 
 
 ## Assumptions
 - The game assumes an infinitely large deck, so the probability of drawing any card is constant.
